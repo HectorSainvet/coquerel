@@ -1,7 +1,6 @@
 # basic options
 title:  coQuerel
 author:  Hector Sainvet
-email:  sainvet.hector@gmail.com
 description:  Cultural Criss-Cross
 github_username:  HectorSainvet
 
@@ -12,4 +11,4 @@ date_format: "%b %-d, %Y"
 skin: sunrise
 header_pages:
   - about.md
-  - portfolio.md
+  - languages.html
