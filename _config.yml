@@ -1,1 +1,10 @@
+# basic options
+title: Website
+author: Hector Sainvet
+email: sainvet.hector@gmail.com
+description: Cultural Domain
+github_username:  HectorSainvet
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
