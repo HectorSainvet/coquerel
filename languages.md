@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Languages
+nav : true
 ---
 
 I love languages...
