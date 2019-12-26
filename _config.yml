@@ -11,4 +11,4 @@ date_format: "%b %-d, %Y"
 skin: sunrise
 header_pages:
   - about.md
-  - languages.html
+  - languages.md
