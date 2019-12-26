@@ -1,5 +1,12 @@
+---
 layout: page
-title: "Languages"
+title: Languages
 permalink: https://hectorsainvet.github.io/coquerel/languages
+---
 
-I love ...
+I love languages...
+
+## Other thoughts
+
+This is great.
+
