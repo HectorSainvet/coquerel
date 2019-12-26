@@ -1,10 +1,15 @@
 # basic options
-title:  Website
+title:  coQuerel
 author:  Hector Sainvet
 email:  sainvet.hector@gmail.com
-description:  Cultural Domain
+description:  Cultural Criss-Cross
 github_username:  HectorSainvet
 
 # Build settings
 markdown:  kramdown
-theme:  minima
+theme:  minima:
+          date_format: "%b %-d, %Y"
+          skin: sunrise
+header_pages:
+  - about.md
+  - portfolio.md
