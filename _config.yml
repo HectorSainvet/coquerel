@@ -4,11 +4,14 @@ author:  Hector Sainvet
 description:  Cultural Criss-Cross
 github_username:  HectorSainvet
 
-# Build settings
-markdown:  kramdown
-theme:  minima
+minima :
 date_format: "%b %-d, %Y"
 skin: sunrise
 header_pages:
   - about.md
   - languages.md
+
+# Build settings
+markdown:  kramdown
+theme:  minima
+
