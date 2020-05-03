@@ -3,6 +3,13 @@ title:  coQuerel
 author:  Hector Sainvet
 description:  Cultural Criss-Cross
 github_username:  HectorSainvet
+keywords: coquerel
+
+defaults :
+  - scope:
+      path: ""
+    values:
+        layout: default
 
 minima :
 date_format: "%b %-d, %Y"
