@@ -15,10 +15,9 @@ minima :
 date_format: "%b %-d, %Y"
 skin: sunrise
 header_pages:
-  - about.md
   - languages.md
 
 # Build settings
 markdown:  kramdown
-theme:  jekyll-theme-minimal
+theme:  minimal
 
