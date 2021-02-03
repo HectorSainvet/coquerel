@@ -15,6 +15,7 @@ minima :
 date_format: "%b %-d, %Y"
 skin: sunrise
 header_pages:
+  - about.md
   - Perles.md
 
 # Build settings
